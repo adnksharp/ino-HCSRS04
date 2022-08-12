@@ -1,5 +1,6 @@
 # HC-SR04
 [![hc-sr04-bb.png](https://i.postimg.cc/cJWJVQxS/hc-sr04-bb.png)](https://postimg.cc/Wd9jZqqW)
+
 Leer distancias usando el sensor ultrasonico [HC-SR04](https://www.luisllamas.es/medir-distancia-con-arduino-y-sensor-de-ultrasonidos-hc-sr04/).
 
 ## Hardware y software necesarios

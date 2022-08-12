@@ -37,3 +37,4 @@ Si la distancia cambia respecto a la lectura anterior, se imprime la distancia e
 
 [![hc-sr04-esquem-tico.png](https://i.postimg.cc/7LNLDfhT/hc-sr04-esquem-tico.png)](https://postimg.cc/mct4yZQb)
 
+###### Fuente: [Luis Llamas](https://www.luisllamas.es/medir-distancia-con-arduino-y-sensor-de-ultrasonidos-hc-sr04/)
